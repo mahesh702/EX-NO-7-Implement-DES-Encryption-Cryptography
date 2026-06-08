@@ -1,5 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-
+## NAME: Mahesh N
+## REG NO: 2305001017
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
@@ -43,6 +44,8 @@ int main(){
 
 
 ## Output:
+<img width="433" height="205" alt="image" src="https://github.com/user-attachments/assets/7b49373a-17c4-4153-8207-d37983b66904" />
+
 
 
 
